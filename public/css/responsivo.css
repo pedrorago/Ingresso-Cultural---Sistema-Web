@@ -1,0 +1,15 @@
+@media(min-width: 1440px)
+{
+	#Evento-banner
+	{
+		width: 99.44%;
+	}
+	.mapaContainer, .resumo-desc
+	{
+		width: 99.4%;
+	}
+	.filtroMapa form span
+	{
+		width: 21.4em;
+	}
+}
