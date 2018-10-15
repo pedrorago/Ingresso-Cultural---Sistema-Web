@@ -7,5 +7,4 @@
 
 <img src="http://agenciacapiba.com.br/img/ingresso1.png">
 <img src="http://agenciacapiba.com.br/img/ingresso2.png">
-<img src="http://agenciacapiba.com.br/img/ingresso4.png">
-<img src="http://agenciacapiba.com.br/img/ingresso5.png">
+<img src="http://agenciacapiba.com.br/img/ingresso3.png">
